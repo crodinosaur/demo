@@ -7,6 +7,7 @@ Rails.application.routes.draw do
   root 'main_pages#contact_us'
 
   get 'faq' => 'main_pages#faq'
+  get 'lizard' => 'main_pages#contact_us'
   
 
   # Example of regular route:
