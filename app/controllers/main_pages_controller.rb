@@ -6,4 +6,6 @@ class MainPagesController < ApplicationController
 
 	def faq
 	end
+	def main_page
+	end
 end
